@@ -27,5 +27,5 @@
   1. student.py
 
 * 10th Python Practical File name is :
-  1. 20ce051_practical.6.py
+  1. 20ce051_practical.10.py
   
